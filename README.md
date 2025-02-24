@@ -30,7 +30,10 @@ Experience the future of storytelling with StorySpinner and embark on a journey 
     ```bash
     cd backend
     ```
-3. Install dependencies: `pip install -r requirements.txt`
+3. Install dependencies: 
+    ```
+    pip install -r requirements.txt
+    ```
 4. Create a `.env` file in your project's root directory and add your environment variables as given below.
     
     ```bash
@@ -38,9 +41,9 @@ Experience the future of storytelling with StorySpinner and embark on a journey 
     GOOGLE_CLOUD_API_KEY = your_api_key
     ```
 5. Run this to authenticate with Google Cloud: 
-``` 
-gcloud auth application-default login
-```
+    ``` 
+    gcloud auth application-default login
+    ```
 ## Usage
 1. Run the script to launch backend application.
 
@@ -52,5 +55,5 @@ gcloud auth application-default login
 
     ```bash
     cd frontend
-    npm start
+    npm run dev
     ```

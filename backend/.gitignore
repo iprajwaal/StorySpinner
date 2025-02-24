@@ -4,6 +4,8 @@ __pycache__
 .vscode
 *.pyc
 
+chroma_reusable_db
+chroma_reusable_db/
 
 /api.json
 # Byte-compiled / optimized / DLL files
