@@ -2,7 +2,7 @@
 
 *Unleash the Power of AI Storytelling*
 
-StorySpinner is a cutting-edge AI tool that breathes life into your web links, transforming them into captivating and dynamic presentations or slides. Whether it's a YouTube video, a blog post, or a Wikipedia entry, StorySpinner harnesses the advanced AI capabilities of Google's Gen AI, PaLM2 model in VertexAI, and Langchain to analyze the impact of influencers across various platforms, making it an invaluable resource for understanding the influence of Tech & Finance world personalities.
+StorySpinner is a cutting-edge AI tool that breathes life into your web links, transforming them into captivating and dynamic presentations or slides. Whether it's a YouTube video, a blog post, or a Wikipedia entry, StorySpinner harnesses the advanced AI capabilities of Google's Gen AI, Gemini Pro in VertexAI, and Langchain to analyze the impact of influencers across various platforms, making it an invaluable resource for understanding the influence of Tech & Finance world personalities.
 
 ## Key Features
 
